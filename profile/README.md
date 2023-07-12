@@ -8,7 +8,7 @@
 - [@hernique33comiitei](https://github.com/hernique33comiitei) - Backend Dev
 
 #### Professores:
-- [@alfredomvieira](https://github.com/alfredomvieira) - Coordernador 
+- [@alfredomvieira](https://github.com/alfredomvieira) - Coordenador 
 - Chico - Professor 
 - Rubens - Gen. Ensino 
 - Gilson - Professor
