@@ -6,3 +6,19 @@
 - [@Vineees](https://www.github.com/Vineees) - Implementação/Server Management
 - [@PsyShadowF](https://github.com/PsyShadowF) - Backend Dev/Front
 - [@hernique33comiitei](https://github.com/hernique33comiitei) - Backend Dev
+
+#### Professores:
+- [@alfredomvieira](https://github.com/alfredomvieira) - Coordernador 
+- Chico - Professor 
+- Rubens - Gen. Ensino 
+- Gilson - Professor
+
+## Frases/Propósitos
+```
+"Tudo que ta ruim pode piorar"
+ Vieira,Alfredo 2017
+```
+```
+"Só podia ser de Redes :)"
+ Souza,Vinícius 2022
+```
